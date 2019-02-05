@@ -1,0 +1,4 @@
+flask
+marshmallow
+git+https://github.com/JavierLuna/apispec-webframeworks.git@master
+
