@@ -15,4 +15,4 @@ export FLASK_ENVIRONMENT=development
 flask run
 ```
 
-Open [http://localhost:5000/url-map]  in a browser.
+Open http://localhost:5000/url-map in a browser.
